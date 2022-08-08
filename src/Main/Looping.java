@@ -1,5 +1,6 @@
 package Main;
 
+// Praktikum buat bintang
 public class Looping {
     public static void main(String args[]){
         int a = 7;
